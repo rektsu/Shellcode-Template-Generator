@@ -11,3 +11,9 @@ Examples:
 ### python3 encryptor.py -b /home/user/rektsu/Desktop/payload.bin -k Sup3Rs3Cr3Tk3Y -c xor
 ### python3 encryptor.py -b /home/user/rektsu/Desktop/payload.bin -k Sup3Rc00LK3Y -c aes -o shellcode.txt
 ### python3 encryptor.py -b /home/user/rektsu/Desktop/payload.bin -k an0th3rSCT3mpl4T3 -c xor -w /home/user/rektsu/Desktop/process_injection.c
+
+
+# TODO
+
+Support more encryption types.
+Multi-threading encryption.
