@@ -2,7 +2,8 @@
 Basic python script template that generates shellcode from a file by encrypting it.
 
 # Installation
-wget https://raw.githubusercontent.com/rektsu/Shellcode-Template-Generator/main/encryptor.py -o encryptor.py
+##### Just download the py file
+##### wget https://raw.githubusercontent.com/rektsu/Shellcode-Template-Generator/main/encryptor.py -o encryptor.py
 
 # Usage
 Examples:
