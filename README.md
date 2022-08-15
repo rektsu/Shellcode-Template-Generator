@@ -15,5 +15,5 @@ Examples:
 
 # TODO
 
-Support more encryption types.
-Multi-threading encryption.
+#### Support more encryption types.
+#### Multi-threading encryption.
